@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|f:\\college projects\\4.forth year\\encryption algorithms\\startupcode\\securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\diffiehellman\\diffiehellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\diffiehellman\\diffiehellman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\rsa\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitypackagetest\\deffiehelmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4638FC66-5518-485D-A541-D0A6044730B0}|SecurityPackageTest\\SecurityPackageTest.csproj|solutionrelative:securitypackagetest\\deffiehelmantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\aes\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\aes\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\rc4\\rc4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\rc4\\rc4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\des\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\des\\tripledes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\RSA\\RSA.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\RSA\\RSA.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\RSA\\RSA.cs",
+              "RelativeToolTip": "securitylibrary\\RSA\\RSA.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:20.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiffieHellman.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "RelativeToolTip": "securitylibrary\\DiffieHellman\\DiffieHellman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeffieHelmanTest.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitypackagetest\\DeffieHelmanTest.cs",
+              "RelativeDocumentMoniker": "securitypackagetest\\DeffieHelmanTest.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitypackagetest\\DeffieHelmanTest.cs",
+              "RelativeToolTip": "securitypackagetest\\DeffieHelmanTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RC4.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\RC4\\RC4.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\RC4\\RC4.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\RC4\\RC4.cs",
+              "RelativeToolTip": "securitylibrary\\RC4\\RC4.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:21.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ELGAMAL.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeToolTip": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:21.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripleDES.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\DES\\TripleDES.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\DES\\TripleDES.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\DES\\TripleDES.cs",
+              "RelativeToolTip": "securitylibrary\\DES\\TripleDES.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:21.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AES.cs",
+              "DocumentMoniker": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\AES\\AES.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\AES\\AES.cs",
+              "ToolTip": "F:\\College Projects\\4.Forth Year\\Encryption Algorithms\\startupcode\\securitylibrary\\AES\\AES.cs",
+              "RelativeToolTip": "securitylibrary\\AES\\AES.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:47:21.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
